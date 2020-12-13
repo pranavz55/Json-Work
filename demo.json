@@ -1,0 +1,15 @@
+{
+	"lastname":"Zagade",
+	"personalinfo":{
+		"name":{"type":"String","length":5},
+		"age":{"type":"number"}
+	},
+	"education":[{
+		"degree":{"type":"String","length":10},
+		"grade":{"type":"String","length":1}
+	}],
+	"account":[{
+		"accounttype":{"type":"String","length":7},
+		"accountno":{"type":"number","length":10}
+	}]
+}
